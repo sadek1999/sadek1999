@@ -1,5 +1,5 @@
 
-![I am web developer][(https://as1.ftcdn.net/v2/jpg/02/16/03/28/1000_F_216032849_rE3hjVYDhZMeO5OxE9bWsH7jYSucG3Ky.jpg](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg))
+![I am web developer](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg)
 
 
 ### Hi there 👋,  I'm Sadek Ali
