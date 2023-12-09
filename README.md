@@ -25,7 +25,8 @@ Skills:  REACT / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadek1999)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadek1999&show_icons=true)  
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadek1999&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadek1999&theme=2077)
   
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sadek1999)  
