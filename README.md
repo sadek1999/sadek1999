@@ -1,6 +1,9 @@
+
+![I am web developer](https://as1.ftcdn.net/v2/jpg/02/14/53/92/1000_F_214539232_YnUrtuwUEt84gHuU0qG8l7OwZvH4rnPG.jpg)
+
+
 ### Hi there 👋,  I'm Sadek Ali
 #### I am web developer
-![I am web developer](https://as1.ftcdn.net/v2/jpg/02/14/53/92/1000_F_214539232_YnUrtuwUEt84gHuU0qG8l7OwZvH4rnPG.jpg)
 
 
 Skills:  REACT / JS / HTML / CSS
