@@ -27,7 +27,7 @@ Skills:  REACT / JS / HTML / CSS
   
 ![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadek1999&theme=2077)
 
-![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadek1999&theme=2077)
+
 
 
 
