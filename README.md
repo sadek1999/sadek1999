@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<!--
+
 **sadek1999/sadek1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadek1999&theme=nightfox&border_radius=4.4)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
