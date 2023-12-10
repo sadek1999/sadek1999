@@ -15,7 +15,7 @@ Skills:  REACT / JS / HTML / CSS
 - 📫 How to reach me: sadekali1530@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sadek1999)  [<img src='https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sadek-ali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sadek )  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sadek1999)  [<img src='https://logohistory.net/wp-content/uploads/2023/05/LinkedIn-Logo.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sadek-ali/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sadek )  
 
 
 <h3 align="left">Languages and Tools:</h3>
