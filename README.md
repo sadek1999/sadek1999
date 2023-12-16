@@ -3,7 +3,12 @@
 
 
 ### Hi there 👋,  I'm Sadek Ali
-#### I am web developer
+#### About
+I'm a MERN stack Developer based in Bangladesh, currently pursuing my degree in Computer Science and
+Engineering. Some technologies I enjoy working with include ReactJS,
+Express.js, MongoDB and Node.js. I'm always eager to expand my skill set. Currently, I'm diving deeper
+into Next.js.
+
 
 
 Skills:  REACT / JS / HTML / CSS
